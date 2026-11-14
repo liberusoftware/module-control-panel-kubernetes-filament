@@ -2,7 +2,7 @@
   "$schema": "https://schemas.liberu.dev/module/v1.json",
   "name": "control-panel-kubernetes-filament",
   "display_name": "Control Panel Kubernetes Filament",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "category": "presentation",
   "provider": "Liberu\\ControlPanel\\KubernetesFilament\\KubernetesFilamentServiceProvider",
   "requires": {
